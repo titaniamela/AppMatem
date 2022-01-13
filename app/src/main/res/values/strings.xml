@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MATEMATIKA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Matematika Unpad</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_pengelola">Pengelola dan Dosen</string>
+    <string name="menu_fasilitas">Fasilitas</string>
+</resources>
